@@ -4,7 +4,7 @@ import java.util.Properties;
 
 /**
  * @author peyman.ekhtiar on 2021-12-07
- * DECSOFT S.A, Warszawa
+ *
  */
 public class TestApplication {
     public static void main(String[] args) throws IOException {
